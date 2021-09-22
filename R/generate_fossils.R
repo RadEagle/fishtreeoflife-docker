@@ -6,6 +6,8 @@ library(readr)
 library(ggplot2)
 library(stringr)
 
+setwd("C:/Users/Jonpa/OneDrive/Documents/UCLA/Research/fishtreeoflife-docker")
+
 width <- 1000 - (30 * 2)
 height <- width * 3
 
